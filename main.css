@@ -25,7 +25,8 @@ span {
 }
 
 li {
-    margin-left: 1.5rem;
+    margin-left: 1.9rem;
+    padding
 }
 
 p, li {
@@ -62,5 +63,24 @@ h1 {
     width: 95%;
 }
 .about p {
+    padding-left: .8rem;
+}
+
+.main-priv-pol h2 {
+    color: #103f54;
+    margin-top: 1.5em;
+    margin-bottom: .8em;
+    padding-left: .8rem;
+    font-size: 1.4rem;
+}
+
+.main-priv-pol h3 {
+    font-size: 1.2rem;
+    padding-left: .8rem;
+    margin-bottom: .8rem;
+    margin-top: 1.2rem;
+}
+
+.main-priv-pol p {
     padding-left: .8rem;
 }
