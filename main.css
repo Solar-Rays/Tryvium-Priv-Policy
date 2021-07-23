@@ -83,3 +83,12 @@ h1 {
 .main-priv-pol p {
     padding-left: .8rem;
 }
+
+.main-priv-pol div p, li {
+    margin-bottom: .6rem;
+}
+
+.main-priv-pol > p {
+    margin-top: .4rem;
+    color: grey; 
+}
