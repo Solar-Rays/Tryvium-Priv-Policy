@@ -92,3 +92,22 @@ h1 {
     margin-top: .4rem;
     color: grey; 
 }
+
+@media only screen and (max-width: 1000px) {
+    .privacy-policy-container {
+        box-shadow: none;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .privacy-policy-container {
+        padding: 2rem;
+    }
+}
+
+@media only screen and (max-width: 250px) {
+    .privacy-policy-container {
+        padding: 1.5rem;
+    }
+}
